@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CS 162Numpy.iml" filepath="$PROJECT_DIR$/.idea/CS 162Numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS162numpproject.iml" filepath="$PROJECT_DIR$/.idea/CS162numpproject.iml" />
     </modules>
   </component>
 </project>
